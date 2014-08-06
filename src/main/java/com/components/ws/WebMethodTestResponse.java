@@ -29,8 +29,8 @@ public class WebMethodTestResponse {
      * @param _return
      *     the value for the _return property
      */
-    public void setReturn(com.components.ws.impl.User _return) {
-        this._return = _return;
+    public void setReturn(com.components.ws.impl.User _return2) {
+        this._return = _return2;
     }
 
 }
